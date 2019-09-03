@@ -1,0 +1,12 @@
+#######################################################################
+#  TEST_CASE for testing data extraction from google docs from css_path
+########################################################################
+
+testcase1:
+  name_input: "John"
+  attending: False
+
+testcase2:
+  name_input: "Piku"
+  attending: True
+  items: "Mains"
