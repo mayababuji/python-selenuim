@@ -1,6 +1,4 @@
+#Config details
 url: 'https://docs.google.com/forms/d/1fqk12PCN39XJzzoZA5OIgwNtPxTLCYfjub7f1sTxk4w'
-driver:
-  path: "C:\\Users\\mbabuji\\Documents\\selenium_chrome_driver\\chromedriver.exe"
+driver_path: "C:\\Users\\mbabuji\\Documents\\selenium_chrome_driver\\chromedriver.exe"
 
-testcase1:
-  name_input: "John"
