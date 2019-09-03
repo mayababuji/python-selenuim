@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-items_map = {"Mains":0,"Salad":1}
+items_map = {"Mains":0,"Salad":1, "Dessert":2, "Drinks":3, "Sides/Appetizers":4}
 
 def test_party_invite(conf_details):
     """
